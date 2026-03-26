@@ -90,9 +90,3 @@ music-diary-app/
 * logging
 
 ---
-
-## ▶️ Запуск программы
-
-```bash
-python main.py
-```
