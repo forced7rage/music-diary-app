@@ -82,11 +82,11 @@ music-diary-app/
 
 
 
-##  Технологии
+###  Технологии
 
 * Python
 * Tkinter
 * JSON
 * logging
 
----
+
